@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsfandAli321
 - 👀 I’m interested in Anime, games and just anything entertaining.
-- 🌱 I’m about to start my bachelors in software engineering in a near university
+- 🌱 Software engineering undergrad
 - 📫 How to reach me: https://www.facebook.com/Asfandkhas/
 
 <!---
